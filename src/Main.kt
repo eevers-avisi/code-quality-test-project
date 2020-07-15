@@ -16,6 +16,7 @@ fun doAwesomeThing(importantAwesomeText: String) {
     if (textNominations.length > 8)
         println(textNominations)
 
+    // Foo
     var i = 1;
     i =+ 2
 }
