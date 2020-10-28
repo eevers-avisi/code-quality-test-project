@@ -1,19 +1,19 @@
 <component name="libraryTable">
   <library name="KotlinJavaRuntime">
     <CLASSES>
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk8.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7-sources.jar!/" />
-      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-test-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Users/jordivanoss/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.1/640aff4c23a001e5595ee654670d774e9efcd118/ideaIC-2020.1.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk8-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

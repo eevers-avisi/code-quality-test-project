@@ -4,7 +4,7 @@ fun function1(number: Int): String {
         "Invalid number"
     else if (number <= 5) {
         if (number == 1 || number == 2)
-            "Number too low"
+            "Number too lowff"
         else if (number == 3)
             "Number correct"
         else
