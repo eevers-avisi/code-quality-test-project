@@ -18,5 +18,5 @@ fun doAwesomeThing(importantAwesomeText: String) {
 
     // Foo bar
     var i = 1;
-    i =+ 4
+    i =+ 5
 }
