@@ -17,5 +17,5 @@ fun doAwesomeThing(importantAwesomeText: String) {
         println(textNominations)
 
     var i = 1;
-    i =+ 3
+    i =+ 2
 }
