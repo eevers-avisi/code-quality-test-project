@@ -18,5 +18,5 @@ fun doAwesomeThingsWithAVeryLongNotReadableFunctionNameSomeMoreText(importantAwe
 
     // Foo bar
     var i = 1;
-    i =+ 912438
+    i =+ 912438342
 }
