@@ -3,6 +3,7 @@
  * Callculates and returns the fibonacci sequence
  * See https://en.wikipedia.org/wiki/Fibonacci_number for more information regarding the fibonacci sequence
  *
+ *
  * @param limit digits of the fibonacci sequence to calculate. A limit lower than 3 has no effect.
  * @return ArrayList containing *limit* digits of the fibonacci sequence, with a minimum size of 3: (0, 1, 1)
  */
