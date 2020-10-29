@@ -6,10 +6,10 @@ fun main() {
 /**
  * Receive and print the text
  *
- * @param importantAwesomeText The text to print
+ * @param importantAwesomeTextVariableLongerName The text to print
  */
-fun doAwesomeThingsWithAVeryLongNotReadableFunctionNameSomeMoreText(importantAwesomeText: String) {
-    val textNominations: String = importantAwesomeText;
+fun doAwesomeThingsWithAVeryLongNotReadableFunctionNameSomeMoreText(importantAwesomeTextVariableLongerName: String) {
+    val textNominations: String = importantAwesomeTextVariableLongerName;
 
     // Print every piece of awesome text.
     // This is very important and awesome.
