@@ -5,7 +5,7 @@
  *
  *
  * @param limit digits of the fibonacci sequence to calculate. A limit lower than 3 has no effect.
- * @return ArrayList containing *limit* digits of the fibonacci sequence, with a minimum size of 3: (0, 1, 1)
+ * @return ArrayLisdt containing *limit* digits of the fibonacci sequence, with a minimum size of 3: (0, 1, 1)
  */
 fun fibonacciSequenceUpTo(limit: Int): ArrayList<Int> {
     val sequence = arrayListOf<Int>(0, 1, 1)
