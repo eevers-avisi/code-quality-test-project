@@ -8,11 +8,11 @@
  * @return ArrayList containing *limit* digits of the fibonacci sequence, with a minimum size of 3: (0, 1, 1)
  */
 fun fibonacciSequenceUpTo(limit: Int): ArrayList<Int> {
-    val eghdfnhklfhmnfkohfgohjndfhjndhkjdnhdfjkfhjnthjndrthfrth = arrayListOf<Int>(0, 1, 1)
+    val dedfgdjkdfkjhknfrthkjnfgthknfgthknfgtkhjnjkthnfgrth = arrayListOf<Int>(0, 1, 1)
     var index = 1
     // -2 As the index starts two positions behind the number that is calculated in the while loop
     while (index < limit - 2) {
-        eghdfnhklfhmnfkohfgohjndfhjndhkjdnhdfjkfhjnthjndrthfrth.add(eghdfnhklfhmnfkohfgohjndfhjndhkjdnhdfjkfhjnthjndrthfrth[index++] + eghdfnhklfhmnfkohfgohjndfhjndhkjdnhdfjkfhjnthjndrthfrth[index])
+        dedfgdjkdfkjhknfrthkjnfgthknfgthknfgtkhjnjkthnfgrth.add(dedfgdjkdfkjhknfrthkjnfgthknfgthknfgtkhjnjkthnfgrth[index++] + dedfgdjkdfkjhknfrthkjnfgthknfgthknfgtkhjnjkthnfgrth[index])
     }
-    return eghdfnhklfhmnfkohfgohjndfhjndhkjdnhdfjkfhjnthjndrthfrth
+    return dedfgdjkdfkjhknfrthkjnfgthknfgthknfgtkhjnjkthnfgrth
 }
