@@ -1,6 +1,6 @@
 
 fun main() {
-    doAwesomeThingsWithAnUnreadableAndUnneededLongName("Hello world!")
+    doAwesomeThings("Hello world!")
 }
 
 /**
@@ -8,7 +8,7 @@ fun main() {
  *
  * @param importantAwesomeText The text to print
  */
-fun doAwesomeThingsWithAnUnreadableAndUnneededLongName(importantAwesomeText: String) {
+fun doAwesomeThings(importantAwesomeText: String) {
     val textNominations: String = importantAwesomeText;
 
     // Print every piece of awesome text.
