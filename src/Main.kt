@@ -1,18 +1,17 @@
 
 fun main() {
-    doAwesomeThingsWithAnUnreadableAndUnneededLongName("Hello world!")
+    something("Hello world!")
 }
 
 /**
- * Receive and print the text
+ * Receive
  *
  * @param importantAwesomeText The text to print
  */
-fun doAwesomeThingsWithAnUnreadableAndUnneededLongName(importantAwesomeText: String) {
+fun something(importantAwesomeText: String) {
     val textNominations: String = importantAwesomeText;
 
-    // Print every piece of awesome text.
-    // This is very important and awesome.
+    // Bla bla bla bla bla bla bla bla bla
     if (textNominations.length > 8)
         println(textNominations)
 
