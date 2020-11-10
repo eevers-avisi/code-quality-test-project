@@ -16,6 +16,6 @@ fun doAwesomeThings(importantAwesomeText: String) {
     if (textNominations.length > 8)
         println(textNominations)
 
-    var i = 1;
-    i =+ 24324344213
+    var i = 1
+    i =+ 2432434
 }
