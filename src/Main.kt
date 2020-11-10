@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 fun main() {
     doAwesomeThingsWithAVeryLongNotReadableFunctionNameSomeMoreText("Hello world!")
@@ -10,13 +11,19 @@ fun main() {
  */
 fun doAwesomeThingsWithAVeryLongNotReadableFunctionNameSomeMoreText(importantAwesomeTextVariableLongerName: String) {
     val textNominations: String = importantAwesomeTextVariableLongerName;
+=======
+/**
+ * This class is about a dog
+ */
+class Animal {
+>>>>>>> Stashed changes
 
-    // Print every piece of awesome text.
-    // This is very important and awesome.
-    if (textNominations.length > 8)
-        println(textNominations)
+    val numberOfLegs = 4
 
+<<<<<<< Updated upstream
     // Foo bar
     var i = 1;
     i =+ 32434344
+=======
+>>>>>>> Stashed changes
 }
