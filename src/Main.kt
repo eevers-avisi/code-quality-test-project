@@ -1,6 +1,6 @@
 /**
- * This class is about a dog
+ * This class is about a animal
  */
 class Animal {
-    val numberOfLegs = 4
+    val ejgdfkndfjndgjndghkndfgjndgjkndskl = 4
 }
