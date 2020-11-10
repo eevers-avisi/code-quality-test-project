@@ -1,6 +1,6 @@
 
 fun main() {
-    doAwesomeThing("Hello world!")
+    doAwesomeThings("Hello world!!")
 }
 
 /**
@@ -8,7 +8,7 @@ fun main() {
  *
  * @param importantAwesomeText The text to print
  */
-fun doAwesomeThing(importantAwesomeText: String) {
+fun doAwesomeThings(importantAwesomeText: String) {
     val textNominations: String = importantAwesomeText;
 
     // Print every piece of awesome text.
@@ -17,5 +17,5 @@ fun doAwesomeThing(importantAwesomeText: String) {
         println(textNominations)
 
     var i = 1;
-    i =+ 2
+    i =+ 24324344213
 }
